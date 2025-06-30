@@ -3,7 +3,7 @@ Simulation software to teach principles of neuronal excitability for medical stu
 
 Runs under WIndows, no support for MAC OS or iOS.
 
-https://github.com/Cannon-Lab/Neuron_Simulator/blob/main/NeuroSim/bin/images/NeuroSim_ScreenShot.png
+<img src="https://github.com/Cannon-Lab/Neuron_Simulator/blob/main/NeuroSim/bin/images/NeuroSim_ScreenShot.png" width = "520">
 
 
 
